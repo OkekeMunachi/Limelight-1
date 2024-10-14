@@ -1,1 +1,1 @@
-# Using HTML/CSS to design a flipping card for a product advertisement
+# Using HTML/CSS to design a flip card for a product advertisement
